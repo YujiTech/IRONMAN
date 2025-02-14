@@ -38,7 +38,7 @@ Before you begin, ensure you have the following installed:
 2. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/iamsuriyan/IronMan-Tribute-Website.git
+    git clone https://github.com/YujiTech/IRONMAN.git 
     ```
 
 3. **Navigate to the project directory:**
